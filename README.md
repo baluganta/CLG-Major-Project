@@ -1,0 +1,2 @@
+# CLG-Major-Project
+CREDIT CARD FRAUD DETECTION SYSTEM - using LSTM &amp; XGBoost
